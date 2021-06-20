@@ -1,6 +1,6 @@
 # CourseProjectApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3. If you want to learn Angular, check out the course on Udemy I got this from and follow along! [Udemy Course](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
 ## Development server
 
